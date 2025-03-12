@@ -86,7 +86,7 @@ function App() {
               <Menu className="h-6 w-6 mr-4 lg:hidden hover:text-gold-500 transition-colors" />
               <div className="flex items-center">
                 <Diamond className="h-8 w-8 text-gold-500 mr-2" />
-                <h1 className="text-3xl font-serif font-bold text-gray-900">Sir jewellery</h1>
+                <h1 className="text-3xl font-serif font-bold text-gray-900">Sri jewellery</h1>
               </div>
             </div>
             <div className="hidden lg:flex space-x-12">
